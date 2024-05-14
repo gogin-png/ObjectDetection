@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1715690235837" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="YoloModels/yolov8n.pt" />
+    <option name="AFTER_PATH" value="YOLO/YoloModels/yolov8n.pt" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/yolov8n.pt" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="images/1.jpg" />
+    <option name="AFTER_PATH" value="YOLO/images/1.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/1.jpg" />
+  </binary>
+</changelist>
